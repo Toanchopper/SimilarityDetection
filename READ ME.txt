@@ -1,0 +1,12 @@
+* 
+Bộ data sử dụng được lấy từ https://github.com/duyvuleo/VNTC/tree/master/Data/10Topics/Ver1.1
+* 
+------------------------------------------------------------------
+Hướng dẫn chạy thử nghiệm:
+- Yêu cầu đã cài đặt Python và Visual Studio trên máy tính
+- Cài đặt các thư viện NumPy (pip install numpy), Scipy (pip install scipy), PyVi( pip install pyvi) 
+- Mở thư mục code, project WinForm sẽ được chứa trong đó, mở folder project ra và chạy file Similar.sln
+- Copy 3 thư mục Data,Data2 và Data3 (là 3 bộ data dùng để thử nghiệm) vào ổ E.Mặc định khi chạy chương trình sẽ chạy bộ Data,nếu muốn dùng 2 bộ còn lại thì sửa tên bộ ở đường dẫn dòng thứ 24 của file MainForm.cs sau khi mở project.
+- Nếu muốn tạo bộ dữ liệu mới hoặc văn bản tham chiếu mới thì phải chuẩn hóa trước khi sử dụng. Muốn chuẩn hóa thì dùng chương trình tách từ ( file tachtu.py trong mục code python), sửa biến path ở dòng thứ 2 thành đường dẫn tới file văn bản gốc.Sau khi chạy sẽ thu được văn bản đã chuẩn hóa
+- Sửa biến duongdan chứa tên đường dẫn ở dòng thứ 23 của file Form1.cs thành đường dẫn của file python có tên do_tuong_tu_cau.python nằm trong thư mục Code.
+- Chạy chương trình,lựa chọn văn bản tham chiếu từ 1 trong 2 văn bản được đính kèm và chọn kiểu tính,sau đó nhấn nút tính.

@@ -1,0 +1,49 @@
+c:\users\alita\documents\visual studio 2013\Projects\Similar\bin\Debug\Similar.exe.config
+C:\Users\Alita\documents\visual studio 2013\Projects\Similar\bin\Debug\Similar.exe
+C:\Users\Alita\documents\visual studio 2013\Projects\Similar\bin\Debug\Similar.pdb
+C:\Users\Alita\documents\visual studio 2013\Projects\Similar\obj\Debug\Similar.csprojResolveAssemblyReference.cache
+C:\Users\Alita\documents\visual studio 2013\Projects\Similar\obj\Debug\Similar.Form1.resources
+C:\Users\Alita\documents\visual studio 2013\Projects\Similar\obj\Debug\Similar.Properties.Resources.resources
+C:\Users\Alita\documents\visual studio 2013\Projects\Similar\obj\Debug\Similar.csproj.GenerateResource.Cache
+C:\Users\Alita\documents\visual studio 2013\Projects\Similar\obj\Debug\Similar.exe
+C:\Users\Alita\documents\visual studio 2013\Projects\Similar\obj\Debug\Similar.pdb
+C:\Users\Alita\documents\visual studio 2013\Projects\Similar\obj\Debug\Similar.Detail.resources
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar2\bin\Debug\Similar.exe.config
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar2\obj\Debug\Similar.exe
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar2\obj\Debug\Similar.pdb
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar2\bin\Debug\Similar.exe
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar2\bin\Debug\Similar.pdb
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar2\obj\Debug\Similar.csprojResolveAssemblyReference.cache
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar2\obj\Debug\Similar.Detail.resources
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar2\obj\Debug\Similar.Form1.resources
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar2\obj\Debug\Similar.Properties.Resources.resources
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar2\obj\Debug\Similar.csproj.GenerateResource.Cache
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar2\obj\Debug\Similar.Notice.resources
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar2\obj\Debug\Similar.MainForm.resources
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar2\obj\Debug\Similar.Detail2.resources
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar3\bin\Debug\Similar.exe.config
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar3\obj\Debug\Similar.exe
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar3\obj\Debug\Similar.pdb
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar3\bin\Debug\Similar.exe
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar3\bin\Debug\Similar.pdb
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar3\obj\Debug\Similar.csprojResolveAssemblyReference.cache
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar3\obj\Debug\Similar.Detail.resources
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar3\obj\Debug\Similar.Detail2.resources
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar3\obj\Debug\Similar.Form1.resources
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar3\obj\Debug\Similar.MainForm.resources
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar3\obj\Debug\Similar.Notice.resources
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar3\obj\Debug\Similar.Properties.Resources.resources
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\Similar3\obj\Debug\Similar.csproj.GenerateResource.Cache
+C:\Users\Alita\Desktop\Luanvan_donggoi\Code\Chương trình tính độ tương tự (C#)\bin\Debug\Similar.exe.config
+C:\Users\Alita\Desktop\Luanvan_donggoi\Code\Chương trình tính độ tương tự (C#)\obj\Debug\Similar.exe
+C:\Users\Alita\Desktop\Luanvan_donggoi\Code\Chương trình tính độ tương tự (C#)\obj\Debug\Similar.pdb
+C:\Users\Alita\Desktop\Luanvan_donggoi\Code\Chương trình tính độ tương tự (C#)\bin\Debug\Similar.exe
+C:\Users\Alita\Desktop\Luanvan_donggoi\Code\Chương trình tính độ tương tự (C#)\bin\Debug\Similar.pdb
+C:\Users\Alita\Desktop\Luanvan_donggoi\Code\Chương trình tính độ tương tự (C#)\obj\Debug\Similar.csprojResolveAssemblyReference.cache
+C:\Users\Alita\Desktop\Luanvan_donggoi\Code\Chương trình tính độ tương tự (C#)\obj\Debug\Similar.Detail.resources
+C:\Users\Alita\Desktop\Luanvan_donggoi\Code\Chương trình tính độ tương tự (C#)\obj\Debug\Similar.Detail2.resources
+C:\Users\Alita\Desktop\Luanvan_donggoi\Code\Chương trình tính độ tương tự (C#)\obj\Debug\Similar.Form1.resources
+C:\Users\Alita\Desktop\Luanvan_donggoi\Code\Chương trình tính độ tương tự (C#)\obj\Debug\Similar.MainForm.resources
+C:\Users\Alita\Desktop\Luanvan_donggoi\Code\Chương trình tính độ tương tự (C#)\obj\Debug\Similar.Notice.resources
+C:\Users\Alita\Desktop\Luanvan_donggoi\Code\Chương trình tính độ tương tự (C#)\obj\Debug\Similar.Properties.Resources.resources
+C:\Users\Alita\Desktop\Luanvan_donggoi\Code\Chương trình tính độ tương tự (C#)\obj\Debug\Similar.csproj.GenerateResource.Cache
